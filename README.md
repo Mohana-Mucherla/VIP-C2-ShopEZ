@@ -1,3 +1,5 @@
+# ShopEZ
+
 ShopEZ is a full-stack e-commerce web application built with React, Node.js, Express, and MongoDB. The project includes user authentication, product browsing, cart management, wishlist features, product reviews, order placement, and admin product management.
 
 ## Features
@@ -59,7 +61,7 @@ ShopEZ/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Mohana-Mucherla/VIP-C2-ShopEZ.git
+git clone https://github.com/ramya-mucherla/VIP-C2-ShopEZ.git
 ```
 
 Go to the project folder:
